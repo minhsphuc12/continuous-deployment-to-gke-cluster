@@ -1,0 +1,12 @@
+apiVersion: v2
+name: retrieval
+description: my helm chart for retrieval app
+
+type: application
+
+version: 0.1.0
+appVersion: "1.0.0"
+
+maintainers:
+- email: minhsphuc12@gmail.com
+  name: duongnguyen
