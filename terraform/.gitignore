@@ -3,4 +3,4 @@ terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
 *.json
-app/pretrained_clip.pt
+app/pretrained_clip.pt 
